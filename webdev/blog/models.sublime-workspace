@@ -1,0 +1,222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Ima",
+				"image"
+			],
+			[
+				"P",
+				"ProfileUpdateForm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mathan/environments/webdev/users/signals.py",
+		"/C/Users/Mathan/environments/webdev/blog/views.py",
+		"/C/Users/Mathan/environments/webdev/webdev/settings.py",
+		"/C/Users/Mathan/environments/webdev/Procfile",
+		"/C/Users/Mathan/environments/webdev/users/apps.py",
+		"/C/Users/Mathan/environments/webdev/webdev/urls.py",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/password_reset.html",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/password_reset_done.html",
+		"/C/Users/Mathan/environments/webdev/secrets.py",
+		"/C/Users/Mathan/environments/webdev/users/models.py",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/password_reset_confirm.html",
+		"/C/Users/Mathan/environments/webdev/webdev/.gitignore",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/password_resest.html",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/home.html",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/post_Detail.html",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/post_confirm_delete.html",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/user_posts.html",
+		"/C/Users/Mathan/environments/webdev/blog/urls.py",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/bbase.html",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/post_form.html",
+		"/C/Users/Mathan/environments/webdev/blog/models.py",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/logout.html",
+		"/C/Users/Mathan/environments/webdev/blog/post_Detail.html",
+		"/C/Users/Mathan/environments/webdev/users/forms.py",
+		"/C/Users/Mathan/environments/webdev/users/views.py",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/profile.html",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/signals.py",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/login.html",
+		"/C/Users/Mathan/environments/webdev/users/templates/users/register.html",
+		"/C/Users/Mathan/environments/webdev/users/admin.py",
+		"/C/Users/Mathan/environments/webdev/blog/admin.py",
+		"/C/Users/Mathan/environments/webdev/blog/static/blog/main.css",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/about.html",
+		"/C/Users/Mathan/environments/webdev/manage.py",
+		"/C/Users/Mathan/environments/webdev/webdev/main.html",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/home.HTML",
+		"/C/Users/Mathan/environments/webdev/blog/templates/blog/about.HTML",
+		"/C/Users/Mathan/environments/blog/views.py",
+		"/C/Users/Mathan/environments/blog/urls.py",
+		"/C/Users/Mathan/environments/blog/urls",
+		"/C/Users/Mathan/environments/blog/url.py",
+		"/C/Users/Mathan/environments/blog/__init__.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"blog\\__init__.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
